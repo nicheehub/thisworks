@@ -8,7 +8,7 @@ _G.targetPart = "HumanoidRootPart", "Head"
 _G.bindEnabled = true
 _G.bind = Enum.KeyCode.Equals 
 
-_G.FOV = 15
+_G.FOV = 45
 
 -- This is primarily useful in first person shooters, note, wallbang will not work when you disable this.
 local RAYCAST_ENABLED = false
