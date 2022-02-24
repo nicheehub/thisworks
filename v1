@@ -4,7 +4,7 @@ _G.whitelist = {
     "exlusar"
 }
 _G.friendsListIsWhitelisted = true 
-_G.targetPart = "HumanoidRootPart", "Head"
+_G.targetPart = "Head"
 _G.bindEnabled = true
 _G.bind = Enum.KeyCode.Equals 
 
